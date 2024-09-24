@@ -1,0 +1,40 @@
+1--// Total Customers
+2-- Total Distinct Products
+3--// Top Profitable Products
+4--// Regional Top Profitable Products
+5--// Regional Top Profitable Products where region is east
+
+6--// Regional Top Profitable Products where region is west
+7--// Regional Top Profitable Products where region is central
+8--// Regional Top Profitable Products where rregion is south
+
+9--// Regional Top Profitable Products By Segment
+10--// Top Profitable Products by Sates
+11--// Top Profitable Products by Sates and segment
+12--// Top Profitable Products by Cities
+13--// Top Profitable Products by Cities and Segment
+
+14--// Top Selling Products
+15--// Top Sales from Regions
+16--// Top Sales from Sates
+17--// Top Sales from Cities
+18--// Top Sales from Cities by Segment
+19--// Top Sales from Sates by segments
+20--// Top Sales from Regions By Category where region is east
+21--// Top Sales from Regions By Category where region is west
+22--// Top Sales from Regions By Category where region is central
+23--// Top Sales from Regions By Category where region is south
+24--// Top Sales from Sates by Category
+25--// Top Sales from Cities by Category
+
+
+
+
+
+
+
+
+
+
+
+
