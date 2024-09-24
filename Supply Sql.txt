@@ -1,0 +1,21 @@
+--// Count of Quantity Sold
+--// Revenue Generated from Products
+--// Total Shipping cost of Products
+--// Products Quantity Sold
+--// Defect Rate of SKU's
+--// Total orders from customer demographies by Product Type
+--// Top 10 SKU with higher price
+--// Total Revenue Generated from Locations
+--// Top 10 SKU from locations revenue wise
+--// Top 10 SKU from Mumbai revenue wise
+--// Total Revenue from locations with customer demographies
+--// Total Revenue from Mumbai with Customer Demographies
+--//Cost from transportation modes and their Routes
+--//Cost from transportation modes and their Routes
+--// CASES when revenue is high, medium, normal, minimum and low
+--// Reveue Type with it's Distribution
+--// Products with price more than average price
+--// Products with price more than average price 2
+--// Rank Customer Demographics according to their Revenue
+
+
